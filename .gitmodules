@@ -1,0 +1,3 @@
+[submodule "P-Rex"]
+	path = P-Rex
+	url = https://github.com/P-RexMPLS/P-Rex.git
