@@ -254,7 +254,7 @@ def mpls2graph(net, query, k):
             last = atom
 
         elif isinstance(atom, AAnyAtom):
-            G.add_node(atom, ntype=NodeType.RouterDot, nlabel="router:.")
+            G.add_node(atom, ntype=NodeType.Any, nlabel="router:.")
 
             if isinstance(last, list):
                 for l in last:

@@ -1,3 +1,6 @@
 [submodule "P-Rex"]
 	path = P-Rex
 	url = https://github.com/P-RexMPLS/P-Rex.git
+[submodule "dataset-networking2019"]
+	path = dataset-networking2019
+	url = https://github.com/fabgeyer/dataset-networking2019.git
